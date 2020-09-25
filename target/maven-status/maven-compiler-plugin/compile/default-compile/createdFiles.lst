@@ -1,0 +1,6 @@
+com/robertomessa/controller/model/Contact.class
+com/robertomessa/controller/model/ContactRepository.class
+com/robertomessa/ContactManager.class
+com/robertomessa/controller/service/ContactService.class
+com/robertomessa/controller/service/ContactServiceImpl.class
+com/robertomessa/controller/ContactController.class
