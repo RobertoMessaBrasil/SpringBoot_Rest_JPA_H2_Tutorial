@@ -15,6 +15,7 @@ https://github.com/RobertoMessaBrasil/React_MVC_Tutorial
 
 AWS Elastic bean deploy code:
 
+```json
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
@@ -29,3 +30,4 @@ AWS Elastic bean deploy code:
   ],
   "Logging": "/var/log/nginx"
 }
+```
